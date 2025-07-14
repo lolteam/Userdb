@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "device123",
+        "username": "lolteam",
+        "password": "lol",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "lolteam",
+        "password": "lol",
+        "Allowoffline": false
+    }
+]
