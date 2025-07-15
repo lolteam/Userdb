@@ -1,17 +1,17 @@
 [
     {
-        "username": "user1",
+        "username": "user202",
         "password": "pass123",
         "Allowoffline": true
     },
     {
         "username": "user2",
-        "password": "pass456",
+        "password": "pass101",
         "Allowoffline": false
     },
     {
-        "username": "lolteam",
-        "password": "lol",
+        "username": "lolteam202",
+        "password": "lol101",
         "Allowoffline": true
     },
 ]
