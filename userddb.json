@@ -8,5 +8,11 @@
         "username": "user2",
         "password": "lolteam202",
         "Allowoffline": false
+    },
+    {
+        "username": "lolteam",
+        "password": "lolteam202",
+        "Allowoffline": false
     }
+    
 ]
